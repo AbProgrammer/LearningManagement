@@ -106,11 +106,20 @@ for additional information"
 
 ## Tentative Schedule
 
-We will keep the schedule relatively flexible.
+We will keep the schedule relatively flexible, and will discuss progress at our weekly meeting.
 
-## Tentative Lab Topics
+## Tentative Project Goals
 
-1. TODO
+1. Basic LMS user interface for client (window management)
+2. Basic LMS server, and client-server connections
+3. Student "database" functionality (file I/O, parsing)
+4. Grading functionality (compute grades)
+5. Email functionality (course announcements)
+6. Note/Quiz functionality
+
+## Stretch Goals
+
+We will discuss stretch goals, if we have extra time as the semester progresses.
 
 ## Computing Resources
 
